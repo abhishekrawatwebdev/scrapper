@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Axone Pork Chutney",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pork-Axone-HB/Pork-Axone-01-250x250.jpg",
+    "description": "Pork and Axone is a quintessential North Eastern flavour and a mouthwatering flavour bomb. Soyabean or Axone, which is essentially boiled and fermented soyabeans, imparts a delicious, strong flavour which when combined with high-quality Naga pork ensures that you will be left licking every morsel off this packet!",
+    "price": "Rs 220.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Bamboo Shoot Pickle SN",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/SN-Bamboo-Shoot/Bamboo-Shoot-SN-New-250x250.jpg",
+    "description": "Bamboo shoot is such a common ingredient across the NorthEast, found in all kitchens, that just the thought of bamboo shoot brings the smell of home to mind. This pickled Bamboo Shoot, made in Meghalaya, preserves the subtle flavour and crunchy texture of the bamboo and its very appetising smell. Adding just a spoonful of Bamboo Shoot Pickle will enhance even the simplest of meals. Also, it’s 100% vegetarian. Enjoy the unique taste and satisfaction that only bamboo shoot can give you!",
+    "price": "Rs 180.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Bamboo with King Chilli Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Hornbill-Bamboo-Shoot-Pickle/Bamboo-Shoot-Pickle-1-250x250.jpg",
+    "description": "If you're someone who loves bamboo shoot and the heat of Naga king chilli, do not look beyond this pack of bamboo shoot and Naga king chilli pickle! Lightly pickled in oil letting the Bamboo shoot and the King Chilli's natural pungent flavours shine, these are truly the essence of flavour from across the NorthEast. The subtle flavour and crunchy texture of the bamboo and its very appetizing smell is perfectly captured in this pickle. Also, it’s 100% vegetarian.",
+    "price": "Rs 185.00",
+    "weight": "170.00gm"
+  },
+  {
+    "name": "Beef Chunk Pickle, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Beef_Chunk_Pickle/Beef_Chunk_Pickle_1-250x250.jpg",
+    "description": "This beef pickle is made with quality beef meaty chunks and a blend of typical Naga flavours like indigenous dried herbs, king chilli flakes and the basics of ginger and garlic, to give you an authentic taste of Nagaland! Enjoy the chunky, delicious, 100% tribal taste of the beef chunks pickle.",
+    "price": "Rs 299.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Beef Chutney, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Beef_Chutney/Beef_Chutney_1-250x250.jpg",
+    "price": "Rs 199.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Chicken Chunk Pickle, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Chicken_Chunk_Pickle/Chicken_Chunk_Pickle_1-250x250.jpg",
+    "description": "This chicken pickle is made with quality chicken breast cuts and a blend of typical Naga flavours like indigenous dried herbs, king chilli flakes and the basics of ginger and garlic, to give you an authentic taste of Nagaland! Enjoy the chunky, delicious, 100% tribal taste of the chicken chunks pickle.",
+    "price": "Rs 280.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Chicken Chutney, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Chicken_Chutney/Chicken_Chutney-250x250.jpg",
+    "price": "Rs 189.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Dry Fish (Bombay Duck) Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/SN%20Bombay%20Duck/Bombay-Duck-Pickle-5-250x250.jpg",
+    "price": "Rs 189.00",
+    "weight": "150.00gm"
+  },
+  {
+    "name": "Dry Fish Chutney, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Hornbill-Dry-Fish-Chutney/Dry-Fish-Chutney-2-250x250.jpg",
+    "price": "Rs 175.00",
+    "weight": "90.00gm"
+  },
+  {
+    "name": "Naga chilli Hot Sauce, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Naga-Chilli-Hot-Sauce/Naga-Chilli-Hot-Sauce-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 300.00",
+    "weight": "60.00gm"
+  },
+  {
+    "name": "Pork Chutney, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Pork_Chutney/Pork_Chutney_1-250x250.jpg",
+    "price": "Rs 199.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Raja Mircha, King Chilli Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Hornbill-KCP/Raja-Mircha-Pickle-Front-250x250.jpg",
+    "price": "Rs 215.00",
+    "weight": "170.00gm"
+  },
+  {
+    "name": "Smoked Pork Pickle SN",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/SN%20Pork%20Pickle/Smoked-Pork-Pickle-250x250.jpg",
+    "description": "This homemade and home smoked pork pickle is a true comfort food and a life saver when there is nothing much else on the dinner table to go with your plate of rice. Wood smoked to perfection in typical Khasi style of Meghalaya, the dry, smoked pork’s intense flavour is enhanced with basic spices and preserved in oil without any additional preservatives. Grab a packet and enjoy! Dare we say this will be some of the most delicious smoked pork you'll find online? You be the judge.",
+    "price": "Rs 299.00",
+    "weight": "150.00gm"
+  },
+  {
+    "name": "Soyabean Chutney (Axone)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Hornbill-Soya-Chutney/Soya-Chutney--250x250.jpg",
+    "description": "Soyabean is truly a typical taste of the NorthEast. Soyabean or Axone/Akhuni is essentially boiled & fermented soyabeans. This chutney uses fermented soyabean and comes ready-to-eat! The pungent flavoured with basic spices – ginger, garlic, chilli powder.",
+    "price": "Rs 149.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Spicy Pork Rinds",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Spicy_Pork_Rinds/Spicy_Pork_Rinds_1-250x250.jpg",
+    "description": "",
+    "price": "Rs 140.00",
+    "weight": "35.00gm"
+  },
+  {
+    "name": "Axone King Chilli Pickle, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Axone-King-Chili-Pickle/Axone-King-Chili-Pickle-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 350.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Bamboo Shoot in Oil",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Kamdhenu%20Bamboo%20Pickle/Bamboo-Pickle-2-250x250.jpg",
+    "description": "For those would love to use raw bamboo shoot in their cooking but do not have ready access to it, this plain, simple bamboo shoot preserved in oil with salt and a bit of chilly is the perfect solution! Its preservation in oil is a simple Assamese style of bamboo shoot pickle. Use it as a simple pickle or add it to your curries and dishes as you would use fresh bamboo shoot, the flavour that you’ll get out of it is authentic. Never again be deprived of this classic Northeastern flavour, and enjoy bamboo shoot online all year round!",
+    "price": "Rs 165.00",
+    "weight": "230.00gm"
+  },
+  {
+    "name": "Bamboo Shoot Pickle from Assam",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Bamboo-Shoot-Kam/Bamboo-Shoot-Pickle-2-250x250.jpg",
+    "description": "\"I would rather eat a meal without meat than live in a place without bamboo\" - said a renowned medieval Chinese poet of the Song dynasty. With this Bamboo Shoot Pickle from Assam, you will never need to experience what this poor fellow did! This pickled Bamboo Shoot preserves the subtle flavour and crunchy texture of the bamboo and is enhanced with a mix if typical spices used in making Assamese style pickles. Adding just a spoonful of Bamboo Shoot Pickle will enhance even the simplest of meals.",
+    "price": "Rs 170.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Banana Flower Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Banana%20Flower/Banana-Flower-3-250x250.jpg",
+    "description": "Banana flowers are a rich source of iron, calcium and a whole host of other minerals making it a superfood. Try this pickled banana flower preparation, which is simply yum! Made in typical Assamese style with simple spices here is an easy (and tasty) way to add a superfood into your diet.",
+    "price": "Rs 170.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Buff Chutney",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Buff-Chutney/Buff-Chutney-1-250x250.jpg",
+    "description": "Smoked buff has such an amazing flavour and texture which is only enhanced and made better in this ready-to-eat chutney. The dry, smoked buff has been shredded and ground and immersed in a flavourful three-way spice mix of ginger, mild chilli flakes and garlic. Have it as a snack or as a side along with your plate of rice, you're taste buds are sure to be happy with this mouthful of delicious flavours.",
+    "price": "Rs 220.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Chicken Pickle, Tngen",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tngen/Chicken/Chicken-Pickle-1-250x250.jpg",
+    "price": "Rs 299.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dry Small Fish Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/SN%20Shira/Dry-Fish-Pickle-5-250x250.jpg",
+    "price": "Rs 179.00",
+    "weight": "150.00gm"
+  },
+  {
+    "name": "Elephant Apple (Ou Tenga) Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Elephant%20Apple%20Pickle/Elephant-Apple-Pickle-2-250x250.jpg",
+    "description": "Elephant Apple (Ou Tenga) Pickle: Elephant Apple, or Ou Tenga as it is known in Assamese and Chalta in Bengali, makes quite a lip-smackingly delicious pickle. This pickle is sour and spicy with a good bit of chilly heat as well and is a quintessentially, beloved Assamese pickle.",
+    "price": "Rs 149.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Fish Pickle, Tngen",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tngen/Fish-Pickle/Fish-Pickle-1-250x250.jpg",
+    "price": "Rs 280.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Jackfruit Pickle from Assam",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Kamdhenu-Jackfruit-Pickle/Jackfruit-Pickle-01-250x250.jpg",
+    "description": "Jackfruit is one of those seasonal fruits that goes out of the market before you've had your fill while it’s in season. Grab this Jackfruit pickle bottle made in typical Assamese style where basic spices enhance the star of the pickle - the jackfruit.  The spiciness of this pickle is low and even those with low spice tolerance can enjoy it!",
+    "price": "Rs 145.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Kiwi Sweet Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Kiwi-Pickle/Kiwi-Pickle-3-250x250.jpg",
+    "description": "Pulpy and juicy, sweet yet tangy, the kiwi fruit is packed not only with a lot of flavour but also comes loaded with plenty of health benefits. This sweet kiwi pickle is almost like a chutney which is best with any meal of rice or chappatis and even as a side with snacks. Kiwis are rich sources of vitamin C, E and K, folate and potassium as well as packing lots of antioxidants. Grab this bottle of Kiwi pickle and add health plus taste to your day!",
+    "price": "Rs 149.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Olive (Jalphai) Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Kamdhenu%20Olive%20Pickle/Olive-Pickle-3-250x250.jpg",
+    "description": "Olive or Jalphai (Indian olives) are a sour fruit and do not produce oil like the variety found in the Mediterranean region. It is used mainly in making delicious, tangy pickles and chutneys and is a summer favourite in most parts of the North East. Taste this Olive pickle made in the traditional Assamese style where just the basic spices of ginger, garlic and chili flavour and enhance the Jalphai letting you savour its tangy flesh. The spiciness of this pickle is low and even those with low spice tolerance can enjoy it!",
+    "price": "Rs 149.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Pork Chunk Pickle, HB",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/HB/Pork_Chunk/Pork_Chunk_Pickle_1-250x250.jpg",
+    "description": "This pork pickle is made with quality and meaty pork cuts and a blend of typical Naga flavours like indigenous dried herbs, king chilli flakes and the basics of ginger and garlic, to give you an authentic taste of Nagaland! Enjoy the chunky, delicious, 100% tribal taste of the pork chunk pickle.",
+    "price": "Rs 299.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Pork Pickle, KFP",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Pork_Pickle/Pork_Pickle_1-250x250.jpg",
+    "description": "This pork pickle is a homemade pickle, made with love and care, with 100% natural products so that you can enjoy an authentic Sikkimese taste infused in the pork. Each pork chunk is marinated in a unique yet simple spice blend that leaves you with lovely flavoured pork in every bite! This is a ready-to-eat pickle and you can simply add this to a plate of rice and have a quick and tasty meal ready.",
+    "price": "Rs 369.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Red Chilli Pickle, Tngen",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tngen/Red-Chilli/Red-Chilli-Pickle-1-250x250.jpg",
+    "price": "Rs 200.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Sohphie Pickle, Tngen",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tngen/Sohphie/Sohphie-Pickle-1-250x250.jpg",
+    "price": "Rs 149.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Bamboo Shoot Pickle, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Bamboo-Shoot-Pickle/Bamboo-Shoot-Pickle-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 400.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Chicken Pickle with Dalley Chillies",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Dalley-Chicken-Pickle/Dalley-Chicken-Pickle-1-250x250.jpg",
+    "price": "Rs 299.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Chicken Pickle with Dried Bamboo Shoot",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tribes-Town/Chicken-Dried-Bamboo-Shoot/Chicken-in-Dried-Bamboshoot-1-250x250.jpg",
+    "description": "This chicken pickle is made in a traditional home-style with no synthetic preservatives. The chicken is shredded to soak in the flavour of the dried bamboo shoot as well as other staples of mustard oil, chilli flakes, vinegar, ginger, garlic and salt. The chicken pickle is made with love in an all-women kitchen called TribeTown Kitchen that specializes in Naga and Boro cuisines with native chefs taking on the cooking responsibilities. With ingredients procured from the native regions and an adapted yet traditional tribal style, the kitchen’s authenticity is unparalleled. This kitchen is known for its homely, hygienic, and authentic appeal to the migrant as well as the local population.Best before 3 months from packaging and 3 weeks opening the bottle.\nStorage Conditions: Refrigeration is recommended after opening. Store in COOL, DRY & HYGIENIC place as no preservatives except vinegar is used.",
+    "price": "Rs 250.00",
+    "weight": "180.00gm"
+  },
+  {
+    "name": "Chicken Pickle with King Chilli",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tribes-Town/Chicken-Pickle-King-Chilli/Chicken-Pickle-King-Chili-1-250x250.jpg",
+    "description": "This chicken pickle is made in a traditional home-style with no synthetic preservatives and is simply flavoured with fiery king chillies from Nagaland, mustard oil and salt to let the authentic flavours stand out. The chicken pickle is made with love in an all-women kitchen called TribeTown Kitchen that specializes in Naga and Boro cuisines with native chefs taking on the cooking responsibilities. With ingredients procured from the native regions and an adapted yet traditional tribal style, the kitchen’s authenticity is unparalleled. This kitchen is known for its homely, hygienic, and authentic appeal to the migrant as well as the local population.Best before 3 months from packaging and 3 weeks opening the bottle.\nStorage Conditions: Refrigeration is recommended after opening. Store in COOL, DRY & HYGIENIC place as no preservatives except vinegar is used.",
+    "price": "Rs 250.00",
+    "weight": "180.00gm"
+  },
+  {
+    "name": "Chicken Pickle, KFP",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Chicken_Pickle/Chicken_Pickle_1-250x250.jpg",
+    "description": "This chicken pickle is a homemade pickle, made with love and care, with 100% natural products so that you can enjoy an authentic Sikkimese taste infused in the chicken. Each chicken chunk is marinated in a unique yet simple spice blend that leaves you with lovely flavoured chicken in every bite! This is a ready-to-eat pickle and you can simply add this to a plate of rice and have a quick and tasty meal ready.",
+    "price": "Rs 299.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Chicken Shreds Chutney",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Chicken-Meat-Shreds/Chicken-Meat-Shreds-1-250x250.jpg",
+    "description": "This ready-to-eat dry chicken chutney has a delicious crunchy texture, complemented by a blend of typical northeastern aromatic dry spices, including ginger, garlic, red chilli, sichuan pepper and black pepper - that create an explosion of flavours in your mouth. It's so irresistibly delicious and a perfect snack or accompaniment to make any plate of rice more interesting! Conveniently packed in a sealable bottle this chicken shreds chutney is a versatile and delightful addition to your table.",
+    "price": "Rs 160.00",
+    "weight": "80.00gm"
+  },
+  {
+    "name": "Chilli Pickle, Pahari Roots",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Chilli-Pickle/Chilli-Pickle-1-250x250.jpg",
+    "description": "Pahari Roots sources the chillis used to make our pickle directly from the hilly fields of Meghalaya. Our pickle is a mix of locally grown red and green chillies and is homemade to perfection. It has a spicy and pungent taste that gives you an all-natural experience and is sure to pep up any meal!\nWe make our pickles in traditional north-eastern style in small batches to perfection with wholesome, fresh ingredients. It’s made with traditional spices and preserved in mustard oil to deliver a unique flavour that you won’t find anywhere else!",
+    "price": "Rs 210.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dalle Bamboo Shoot Pickle, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Dalle-Chili-Bamboo-Shoot-Pickle-200/Dalle-Chili-Bamboo-Shoot-Pickle-Bottle-250x250.jpg",
+    "description": "Emerging from the foothills of the Himalayas, Dalle Khursani also known as Fireball Cherry Pepper is one of the hottest chillies in the world! This bottle contains the traditionally prepared Dalle Chilli pickle with young bamboo shoots which is a staple in every household in the northeastern state of Sikkim. The aroma from the chillies complemented by the tangy texture of the bamboo shoot serves as a perfect condiment for comforting meals at home.",
+    "price": "Rs 375.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dalle Chilli Pickle, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Dalle-Chilli-Pickle/Dalle-Chilli-Pickle-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 425.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dalley Chilli Radish Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Radish_Dalley/Radish_Dalley_Pickle_1-250x250.jpg",
+    "description": "Sikkim's dalley chillies are one of the world's hottest chillies and in this spicy treat of a pickle, the scarlet red, round dalley chillies are combined with zingy radish (mula) to bring you a flavourful favourite pickle. This pickle is homemade with a lot of love and care, and for those familiar with dalley, this radish dalley pickle will bring you flavours that will remind you of home!",
+    "price": "Rs 200.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dalley Chilli with Bamboo Shoot Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Dalley_Bamboo_Shoot/Dalley_Bamboo_Shoot_1-250x250.jpg",
+    "description": "Sikkim's dalley chillies are one of the world's hottest naturally grown chillies and in this spicy treat of a pickle, the scarlet red, round dalley chillies are combined with tangy bamboo shoot to bring you a flavourful favourite pickle. This pickle is homemade with a lot of love and care, and for those familiar with dalley, this bamboo shoot dalley pickle will bring you flavours that will remind you of home!",
+    "price": "Rs 220.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Dalley Masala, Dry Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Dalley_Masala/Dalley_Masala_1-250x250.jpg",
+    "description": "Sikkim's dalley chillies are one of the world's hottest naturally grown chillies. In this packet, the scarlet red, round dalley chillies are preserved with oil, garlic and spices to give you a dry pickle packed with flavour. This dalley preserve is homemade with a lot of love and care, and for those familiar with dalley, this packet will bring you flavours that will remind you of home!",
+    "price": "Rs 249.00",
+    "weight": "150.00gm"
+  },
+  {
+    "name": "Dry King Chilli Paste",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Dry-King-Chili-Paste/Dry-King-Chili-Paste-1-250x250.jpg",
+    "description": "This dry king chilli paste is made with bhoot jolokia chillies from upper Assam which are just as spicy and delicious as their Naga king chilli cousins. Handpicked king chillies are dried and then pound into a paste with typical northeastern dry spices, including ginger, garlic, sichuan pepper and black pepper with a bit of vinegar, which combine to create an explosion of flavours in your mouth.",
+    "price": "Rs 99.00",
+    "weight": "80.00gm"
+  },
+  {
+    "name": "Fish Namsing Paste",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Fish-Namsing/Fish-Namsing-1-250x250.jpg",
+    "description": "Fish namsing is a delicacy of the Mishing community of upper Assam and is one of the most beloved and frequently used food items. This fish paste is prepared by fermenting the fish within a bamboo in the age old traditional style. The fermented fish is then pound into a paste with typical northeastern dry spices, including ginger, garlic, red chilli, sichuan pepper and black pepper, turmeric, which combine to create an explosion of flavours in your mouth. The Fish namsing paste is presented in this bottle in the traditional way in the form of a round cake!",
+    "price": "Rs 99.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Fresh King Chilli Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/King-Chili-Pickle/King-Chili-Pickle-1-250x250.jpg",
+    "description": "This pickle is made with fresh king chillies also known as bhoot jolokia chillies from upper Assam which are just as spicy and delicious as their Naga king chilli cousins. Handpicked king chillies are pickled with ginger, garlic and a special blend of mixed spices which give this spicy pickle its typical northeastern taste.",
+    "price": "Rs 230.00",
+    "weight": "240.00gm"
+  },
+  {
+    "name": "Ghost Chilli Pickle, SZF",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Soziosi/Ghost-Pepper-Pickle/Ghost-Pepper-Pickle-250x250.jpg",
+    "description": "Indulge in the flavours of this bhoot jolokia or ghost chilli pickle, crafted with fresh, seasonal, local farm sourced ghost chillies from upper Assam along with a homemade spice blend. Savour the delightful spiciness and relish the unique taste of this Assamese delicacy, lovingly prepared to bring a burst of flavour to your meals. This pickle:",
+    "price": "Rs 100.00",
+    "weight": "150.00gm"
+  },
+  {
+    "name": "Hot Tamarind Chutney, Dalade",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Dalade/Meghalaya_Hot_Tamarind_Chutney-250x250.jpg",
+    "description": "The perfect combo of hot and tangy flavours. Dalade’s Hot Tamarind chutney brings you the goodness of all-natural flavours with ingredients from Meghalaya and adds a spicy punch to your regular meals.",
+    "price": "Rs 199.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Jujube (Bogori) Sweet Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Kamdhenu%20Jujube/Jujube-Bogori-Pickle-4-250x250.jpg",
+    "description": "This is an all-time favourite Assamese pickle. It is made of Jujube berries or bogori in Assamese, are red inside & out, with a crispy texture, edible skin, and a sweet-tart, apple-like flavour. This pickle, aka Bogori asaar or achar, is a sweet, gooey, spicy concoction that is so delicious; you’ll be smacking your lips. And we mean this literally because the molasses sugar used to sweeten the pickle leaves the Jujube coated in the dark, sticky sweetener which gets all over your lips in a messy – but a good messy – way. The Jujube is pickled in mustard oil, spices and chilli flakes giving the whole pickle a unique sweet-sour flavour with a hint of chilli.",
+    "price": "Rs 149.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "King Chilli Bamboo Shoot Pickle, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/King-Chilli-Bamboo-Shoot-Pickle/King-Chilli-Bamboo-Shoot-Pickle-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 400.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "King Chilli Pickle with Lemon Twist",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/King-Chili-Lemon/King-Chili-Lemon-1-250x250.jpg",
+    "description": "This pickle is made with fresh king chillies also known as bhoot jolokia chillies which are just as spicy as their Naga cousins along with a surprise twist - beautiful kaji lemons from Assam for a blast of fresh lemony zing. This typically northeastern combination is accompanied with ginger, garlic and a special blend of mixed spices which give this spicy pickle its northeastern taste.",
+    "price": "Rs 199.00",
+    "weight": "240.00gm"
+  },
+  {
+    "name": "King Chilli with Bamboo Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/King-Chili-Bamboo-Shoot/King-Chili-Bamboo-Shoot-1-250x250.jpg",
+    "description": "This pickle is made with fresh king chillies also known as bhoot jolokia chillies along with tender bamboo shoot from upper Assam. This typically northeastern combination is accompanied with ginger, garlic and a special blend of mixed spices which give this spicy pickle its typical northeastern taste.",
+    "price": "Rs 230.00",
+    "weight": "240.00gm"
+  },
+  {
+    "name": "Mango Pickle, Pahari Roots",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Mango-Pickle/Mango-Pickle-1-250x250.jpg",
+    "description": "This mango pickle is a unique and flavourful treat, made from green mangoes grown in the state of Meghalaya, Northeast India. Completely handmade, you can enjoy the intricate flavours that come together to give this delicious pickle its wonderful taste!\nWe make our pickles in traditional north-eastern style in small batches to perfection with wholesome, fresh ingredients. It’s made with traditional spices and preserved in mustard oil to deliver a unique flavour that you won’t find anywhere else!",
+    "price": "Rs 210.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Mixed Pickle, Pahari Roots",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Mixed-Pickle/Mixed-Pickle-1-250x250.jpg",
+    "description": "",
+    "price": "Rs 210.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Muya (Bamboo) with King Chilli Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NEG/Bamboo-Shoot-King-Chili-2-250x250.jpg",
+    "price": "Rs 589.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Pork Pickle with Axone",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tribes-Town/Pork-with-Axone/Pork-Pickle-in-Axone-1-250x250.jpg",
+    "description": "This pork pickle is made in a traditional home-style with no synthetic preservatives. The pork flavoured with the beloved northeastern flavours axone (fermented soybean), king chilli, schezwan pepper, vinegar, ginger, garlic and salt. The pork pickle is made with love in an all-women kitchen called TribeTown Kitchen that specializes in Naga and Boro cuisines with native chefs taking on the cooking responsibilities. With ingredients procured from the native regions and an adapted yet traditional tribal style, the kitchen’s authenticity is unparalleled. This kitchen is known for its homely, hygienic, and authentic appeal to the migrant as well as the local population.Best before 3 months from packaging and 3 weeks opening the bottle.\nStorage Conditions: Refrigeration is recommended after opening. Store in COOL, DRY & HYGIENIC place as no preservatives except vinegar is used.",
+    "price": "Rs 280.00",
+    "weight": "180.00gm"
+  },
+  {
+    "name": "Pork Pickle with Dalley Chillies",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/KFP/Dalley-Pork-Pickle/Dalley-Pork-Pickle-1-250x250.jpg",
+    "description": "This pork pickle is a homemade pickle, made with love and care, with 100% natural products so that you can enjoy an authentic Sikkimese taste infused in the pork along with the famous spicy Dalley chillies. Each pork chunk is marinated in a unique yet simple spice blend that leaves you with lovely flavoured pork in every bite! This is a ready-to-eat pickle and you can simply add this to a plate of rice and have a quick, spicy and tasty meal ready.",
+    "price": "Rs 369.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Pork Pickle with Dried Bamboo Shoot",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tribes-Town/Pork-Dried-Bamboo_Shoot/Pork-in-Dried-Bamboo-Shoot-3-250x250.jpg",
+    "description": "This pork pickle is made in a traditional home-style with no synthetic preservatives. The pork is shredded to soak in the flavour of the dried bamboo shoot as well as other staples of mustard oil, chilli flakes, vinegar, ginger, garlic and salt. The pork pickle is made with love in an all-women kitchen called TribeTown Kitchen that specializes in Naga and Boro cuisines with native chefs taking on the cooking responsibilities. With ingredients procured from the native regions and an adapted yet traditional tribal style, the kitchen’s authenticity is unparalleled. This kitchen is known for its homely, hygienic, and authentic appeal to the migrant as well as the local population.Best before 3 months from packaging and 3 weeks opening the bottle.\nStorage Conditions: Refrigeration is recommended after opening. Store in COOL, DRY & HYGIENIC place as no preservatives except vinegar is used.",
+    "price": "Rs 280.00",
+    "weight": "180.00gm"
+  },
+  {
+    "name": "Pork Pickle with King Chilli",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tribes-Town/Pork-with-King-Chilli/Pork-in-King-Chili-1-250x250.jpg",
+    "description": "This pork pickle is made in a traditional home-style with no synthetic preservatives and is simply flavoured with fiery king chillies from Nagaland, mustard oil and salt to let the authentic flavours stand out. The pork pickle is made with love in an all-women kitchen called TribeTown Kitchen that specializes in Naga and Boro cuisines with native chefs taking on the cooking responsibilities. With ingredients procured from the native regions and an adapted yet traditional tribal style, the kitchen’s authenticity is unparalleled. This kitchen is known for its homely, hygienic, and authentic appeal to the migrant as well as the local population.Best before 3 months from packaging and 3 weeks opening the bottle.\nStorage Conditions: Refrigeration is recommended after opening. Store in COOL, DRY & HYGIENIC place as no preservatives except vinegar is used.",
+    "price": "Rs 280.00",
+    "weight": "180.00gm"
+  },
+  {
+    "name": "Pork with Bamboo & King Chilli",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Pork-Bamboo-Shoot-King-Chili/Pork-Bamboo-Shoot-King-Chili-1-250x250.jpg",
+    "description": "This delicious bottle of pickle is made with local pork meat. What makes it a great pickle is the addition of the typical northeastern flavours of bamboo shoot and king chilli which give you an authentic taste of pork in the way we like it in the Northeast, almost like a curry, but in pickle form, specially for you to enjoy!",
+    "price": "Rs 170.00",
+    "weight": "210.00gm"
+  },
+  {
+    "name": "Smoked Pork Chutney",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Smoked-Pork-Chutney/Smoked-Pork-Chutney-1-250x250.jpg",
+    "description": "This delicious bottle of pickle is made with local pork meat. What makes it a great pickle is the smoky flavour of the pork which has been wood smoked. The chutney has chunks of smoked pork along with typical northeastern dry spices, including ginger, garlic, sichuan pepper and black pepper with a bit of vinegar, which combine to create an explosion of flavours in your mouth.",
+    "price": "Rs 170.00",
+    "weight": "240.00gm"
+  },
+  {
+    "name": "Smoked Pork with Fermented Soyabean Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Tia/Fermented-Soyabean-Smoked-Pork/Fermented-Soyabean-Smoked-Pork-1-250x250.jpg",
+    "description": "This delicious bottle of pickle is made with local smoked pork meat. What makes it a great pickle is the smoky flavour of the pork which has been wood smoked along with fermented soyabean. The chutney has chunks of smoked pork along with typical northeastern flavour of fermented soyabean or axone as well as dry spices, including ginger, garlic, sichuan pepper and black pepper with a bit of vinegar, which combine to create an explosion of flavours in your mouth.",
+    "price": "Rs 199.00",
+    "weight": "240.00gm"
+  },
+  {
+    "name": "Sohphie Pickle, Pahari Roots",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Sohphie-Pickle/Sohphie-Pickle-1-250x250.jpg",
+    "description": "This pickle is made from a unique fruit, sohphie (box myrtle) which is native to Meghalaya. It's sweet and tangy and ends up being the perfect base for a pickle. We make our pickles in traditional north-eastern style in small batches to perfection with wholesome, fresh ingredients. It’s made with traditional spices and preserved in mustard oil to deliver a unique flavour that you won’t find anywhere else!\nSohphie has a ton of health benefits including:",
+    "price": "Rs 210.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "Jujube Berry(Boroi/Bogori/Kul/Ber) Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NEG/Jujube-Pushpita-250x250.jpg",
+    "description": "Pushpita's Artisanal brings for you homemade Indian jujube berry (boroi/bogori/kul/ber) pickle. Blended with fresh, homeground organic spice mix, organic cane jaggery, organic woodpressed mustard oil with a citrusy flavor from dried citrus peels. The pickle is sundried before bottling. No added artificial preservatives used. Our pickles are handmade in small batches.",
+    "price": "Rs 469.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Mango with King Chilli Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NEG/Mango-King-Chili-Pickle-2-250x250.jpg",
+    "description": "Pushpita's Artisanal homemade pickles brings you this mango with king chilli pickle. This pickle uses fresh, seasonal, local variety raw mangoes and fiery hot, ripe Naga King Chilli along with fresh home-ground spice mix, cold-pressed mustard oil, rock salt and organic apple cider vinegar - all blended together to give you a signature Assamese style spicy mango pickle.",
+    "price": "Rs 483.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Sweet and Spicy Mango Pickle",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NEG/Sweet-Spicy-Mango-2-250x250.jpg",
+    "description": "Pushpita's Artisanal homemade pickles brings you this sweet and spicy mango pickle. This pickle uses fresh, seasonal, local variety raw mangoes along with fresh home-ground spice mix, cold-pressed mustard oil, organic khandsari sugar, organic jaggery, rock salt and organic apple cider vinegar - all blended together to give you a signature Assamese-style sweet and spicy mango pickle.",
+    "price": "Rs 445.00",
+    "weight": "250.00gm"
+  }
+]

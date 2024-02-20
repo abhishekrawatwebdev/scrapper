@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Bhuna Channa",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-08-03-64cb3af6aef03.png",
+    "productLink": "https://www.jaipurchakki.com/product/bhuna-chana",
+    "description": " Roasted chana is a great source of copper, manganese, folate, phosphorus, and manganese, all of which have been shown to be good for heart health. Particularly phosphorus is believed to enhance blood flow and maintain heart function.    ",
+    "variants": [
+      {
+        "weight": "250Gram",
+        "price": "30"
+      }
+    ]
+  },
+  {
+    "name": "Macaroni | Macroni",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-08-01-64c8b49daebe4.png",
+    "productLink": "https://www.jaipurchakki.com/product/macaroni",
+    "description": " Most packaged pasta—including spaghetti, rotini, and any other type—is 100 percent vegan. To know for sure, simply check the ingredients on your package! Sometimes, you might see “egg” listed as an ingredient in “fresh” pasta, so avoid those—but generally, pasta contains no animal-derived ingredients.    ",
+    "variants": [
+      {
+        "weight": "250Gram",
+        "price": "30"
+      }
+    ]
+  },
+  {
+    "name": "Penne Pasta",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-08-01-64c8b3a755d79.png",
+    "productLink": "https://www.jaipurchakki.com/product/Penne-pasta",
+    "description": " Penne pairs well with chunky meat or vegetable-based sauces because its ridges can easily capture the sauce. You can also try penne with a dairy-based sauce or regular tomato sauce. Penne is also frequently used in baked casserole dishes.    ",
+    "variants": [
+      {
+        "weight": "250Gram",
+        "price": "30"
+      }
+    ]
+  },
+  {
+    "name": "Fusilli Pasta",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-08-01-64c8b43bda7da.png",
+    "productLink": "https://www.jaipurchakki.com/product/fusilli-pasta",
+    "description": " Fusilli is a spiral or corkscrew-shaped pasta. Because of its twists, it has grooves that are good for holding onto the sauce. Fusilli pasta was originally developed in Southern Italy by rolling and setting fresh spaghetti around thin rods to dry.    ",
+    "variants": [
+      {
+        "weight": "250Gram",
+        "price": "30"
+      }
+    ]
+  },
+  {
+    "name": "Tomato Ketchup",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-08-08-64d1cf049bf47.png",
+    "productLink": "https://www.jaipurchakki.com/product/tomato-ketchup, Souse, Tomato-souce,",
+    "description": " Eating ketchup in moderation — such as a few tablespoons at a time — doesn't carry many risks. Still, if you're worried about your sugar or salt intake, or if you have acid reflux, heartburn, or food allergies, you may want to limit your intake.    ",
+    "variants": [
+      {
+        "weight": "1Ltr.",
+        "price": "120"
+      }
+    ]
+  },
+  {
+    "name": "Fox Nuts ( Makhana )",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-09-11-64fef16dedef8.png",
+    "productLink": "https://www.jaipurchakki.com/product/makhana, Fox-Nuts",
+    "description": " Makhanas are low in cholesterol, sodium and saturated fats and are good for your heart. They are a good source of magnesium, potassium, manganese, phosphorous and protein. This high nutrition value of makhanas makes them a perfect and healthy snack.    ",
+    "variants": [
+      {
+        "weight": "200Gram",
+        "price": "180"
+      }
+    ]
+  },
+  {
+    "name": "Puffed Rice ( Murmura )",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-09-11-64fef0fce3d51.png",
+    "productLink": "https://www.jaipurchakki.com/product/murmure, Bhel-puri, Puffed-rice,",
+    "description": " Murmura is basically puffed rice, which is loaded with health-enriching nutrients like proteins, magnesium, vitamin B6, thiamin, calcium, iron, and dietary fibers to name a few. Murmura is made with rice and it is prepared by heating or tossing the rice kernels.    ",
+    "variants": [
+      {
+        "weight": "200Gram",
+        "price": "25"
+      }
+    ]
+  },
+  {
+    "name": "Vermicelli",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-09-11-64fef403e4c68.png",
+    "productLink": "https://www.jaipurchakki.com/product/vermacelli, Seviyan , vermecelli,",
+    "description": " Vermicelli is known as semiya in South India, shevaya in Marathi, and seviyan in Hindi. Apart from savory recipes, it is also used for many sweet dishes like Vermicelli Kheer, meethi seviyan, sheer kurma, etc. Seviyan Upma is a healthy and savory recipe made with vermicelli, veggies, and spices    ",
+    "variants": [
+      {
+        "weight": "500Gram",
+        "price": "45"
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Barnyard Millet Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/Barnyard_Millet_Rice.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/barnyard-millet-rice",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "400 gm",
+          "mainPrice": "₹124"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brown Rice Poha",
+    "img": "https://www.earthytales.in/uploads/products/1x/Brown_Rice_Poha.PNG?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/",
+    "details": {
+      "productDescription": "",
+      "variants": []
+    }
+  },
+  {
+    "name": "Foxtail Millets",
+    "img": "https://www.earthytales.in/uploads/products/1x/43.jpg.webp?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/foxtail-millets-rice",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "400 gm",
+          "mainPrice": "₹86"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Organic Parmal Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/Parmal_Rice.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/organic-parmal-rice",
+    "details": {
+      "productDescription": "Parmal rice is long grain cylindrical double polished, non-sticky, creamy white, dry and fine-textured rice.",
+      "variants": [
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹120"
+        },
+        {
+          "weight": "2 kg",
+          "mainPrice": "₹240"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Poha White",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5951.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/poha",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹180"
+        },
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹90"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Proso millet rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/Proso_Millet.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/proso-millet-rice",
+    "details": {
+      "productDescription": "Baragu or Proso Millet � is one of the most nutritious and delicious temperate millet, also known as broom corn, common millet. Proso millet is well suited for many soil types and climate conditions and hence is easily grown anywhere.",
+      "variants": [
+        {
+          "weight": "400 gm",
+          "mainPrice": "₹85"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Red Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5927.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/red-rice",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹90"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹180"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Red Rice Poha",
+    "img": "https://www.earthytales.in/uploads/products/1x/Red-Rice-poha.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/red-rice-poha",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹225"
+        },
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹113"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Semi Brown Basmati Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5923.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/basmati-semi-brown-rice",
+    "details": {
+      "productDescription": "Because bran provides dietary fiber and essential fatty acids, and the germ contains a number of nutrients, the brown version of basmati rice (and all rice) is generally considered healthier than the white version",
+      "variants": [
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹290"
+        },
+        {
+          "weight": "2 kg",
+          "mainPrice": "₹590"
+        },
+        {
+          "weight": "5 kg",
+          "mainPrice": "₹1480"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sona Masuri (Brown)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5923.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/sona-masuri-brown",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹84"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹168"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sona Masuri (white)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5925.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/sona-masuri-white",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹84"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹168"
+        }
+      ]
+    }
+  },
+  {
+    "name": "White Basmati Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5928.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/rice/white-basmati-rice",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹270"
+        },
+        {
+          "weight": "2 kg",
+          "mainPrice": "₹540"
+        }
+      ]
+    }
+  }
+]

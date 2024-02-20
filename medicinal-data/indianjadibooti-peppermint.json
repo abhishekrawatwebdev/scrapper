@@ -1,0 +1,70 @@
+[
+  {
+    "name": "IndianJadiBooti Peppermint Leaves - Mentha Piperita",
+    "productLink": "https://indianjadibooti.com/Jadistore/peppermint-leaves?search=Peppermint&description=true",
+    "variants": [
+      {
+        "weight": "50g",
+        "price": "(Rs180)"
+      },
+      {
+        "weight": "100g",
+        "price": "(Rs250)"
+      },
+      {
+        "weight": "250g",
+        "price": "(Rs380)"
+      },
+      {
+        "weight": "400g",
+        "price": "(Rs510)"
+      },
+      {
+        "weight": "900g",
+        "price": "(Rs780)"
+      },
+      {
+        "weight": "3 x 900g",
+        "price": "(Rs1,870)"
+      },
+      {
+        "weight": "Sample 10g",
+        "price": "(Rs80)"
+      }
+    ]
+  },
+  {
+    "name": "IndianJadiBooti Sat Podina - Pudina Ka Phool - Menthol - Peppermint - Mentha arvensis extract",
+    "productLink": "https://indianjadibooti.com/Jadistore/sat-podina?search=Peppermint&description=true",
+    "variants": [
+      {
+        "weight": "50g",
+        "price": "(Rs290)"
+      },
+      {
+        "weight": "100g",
+        "price": "(Rs440)"
+      },
+      {
+        "weight": "250g",
+        "price": "(Rs760)"
+      },
+      {
+        "weight": "400g",
+        "price": "(Rs1,100)"
+      },
+      {
+        "weight": "900g",
+        "price": "(Rs2,030)"
+      },
+      {
+        "weight": "3 x 900g",
+        "price": "(Rs5,410)"
+      },
+      {
+        "weight": "Sample 10g",
+        "price": "(Rs80)"
+      }
+    ]
+  }
+]

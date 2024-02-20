@@ -1,0 +1,70 @@
+[
+  {
+    "name": "IndianJadiBooti Lavender Tea with Rosemary Twigs",
+    "productLink": "https://indianjadibooti.com/Jadistore/tea-lavender-rosemary?search=Lavender&description=true",
+    "variants": [
+      {
+        "weight": "50g",
+        "price": "(Rs280)"
+      },
+      {
+        "weight": "100g",
+        "price": "(Rs420)"
+      },
+      {
+        "weight": "250g",
+        "price": "(Rs790)"
+      },
+      {
+        "weight": "400g",
+        "price": "(Rs1,060)"
+      },
+      {
+        "weight": "900g",
+        "price": "(Rs1,890)"
+      },
+      {
+        "weight": "3 x 900g",
+        "price": "(Rs4,870)"
+      },
+      {
+        "weight": "Sample 10g",
+        "price": "(Rs100)"
+      }
+    ]
+  },
+  {
+    "name": "IndianJadiBooti Ustukhuddus - Dry Lavender Flower - Ustekhadoos - Ustu Khuddus - Lavendula stoechas - Dharu",
+    "productLink": "https://indianjadibooti.com/Jadistore/ustekhadoos?search=Lavender&description=true",
+    "variants": [
+      {
+        "weight": "50g",
+        "price": "(Rs270)"
+      },
+      {
+        "weight": "100g",
+        "price": "(Rs410)"
+      },
+      {
+        "weight": "250g",
+        "price": "(Rs810)"
+      },
+      {
+        "weight": "400g",
+        "price": "(Rs1,190)"
+      },
+      {
+        "weight": "900g",
+        "price": "(Rs2,060)"
+      },
+      {
+        "weight": "3 x 900g",
+        "price": "(Rs5,370)"
+      },
+      {
+        "weight": "Sample 10g",
+        "price": "(Rs80)"
+      }
+    ]
+  }
+]

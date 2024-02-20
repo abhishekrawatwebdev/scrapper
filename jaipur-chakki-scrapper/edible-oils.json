@@ -1,0 +1,38 @@
+[
+  {
+    "name": "100% Natural Mustard Oil",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-07-31-64c7523b1a871.png",
+    "productLink": "https://www.jaipurchakki.com/product/musturd-oil",
+    "description": " May have anti-inflammatory properties: Mustard oil is believed to have anti-inflammatory properties, which may help reduce inflammation in the body. This is due to the presence of compounds like alpha-linolenic acid and selenium in the oil.  May help lower cholesterol levels: Mustard oil is a good source of monounsaturated and polyunsaturated fatty acids, which are believed to help lower LDL or \"bad\" cholesterol levels in the body. This may help reduce the risk of heart disease and stroke.  May have antibacterial and antifungal properties: Some research suggests that mustard oil may have antibacterial and antifungal properties, which may help protect against certain infections.  May promote hair and skin health: Mustard oil is commonly used topically for its potential benefits for hair and skin. It is believed to help improve hair growth, prevent hair loss, and improve skin health by providing hydration and reducing inflammation.  It's worth noting that mustard oil is high in erucic acid, which has been linked to potential health risks. As such, it's important to use caution when consuming or using mustard oil and to be aware of the regulations in your area.    ",
+    "variants": [
+      {
+        "weight": "1Ltr.",
+        "price": "149"
+      }
+    ]
+  },
+  {
+    "name": "Jaipur Chakki Bilona ghee",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-07-28-64c35883449c0.png",
+    "productLink": "https://www.jaipurchakki.com/product/bilona-ghee",
+    "description": "  Bilona ghee improves digestion, prevents constipation, moisturizes the skin, and strengthens the bones. It is anti-fungal and anti-bacterial and is widely used in herbal preparations. Ghee made from cream is not as easily digestible as bilona ghee. For the little ones, in particular, bilona ghee is preferable.     ",
+    "variants": [
+      {
+        "weight": "500Gram",
+        "price": "999"
+      }
+    ]
+  },
+  {
+    "name": "100% Natural Mustard Oil",
+    "img": "https://www.jaipurchakki.com/storage/app/public/product/2023-07-31-64c77db5d6a86.png",
+    "productLink": "https://www.jaipurchakki.com/product/Natural-Mustard-Oil-Premium-Quality",
+    "description": " 100% NATURAL, PURE, UNREFINED, PREMIUM QUALITY SEED, RICH IN NUTRIENTS, QUALITY GUARANTEED, BEST FOR COOKING, HEART FRIENDLY,    ",
+    "variants": [
+      {
+        "weight": "5Ltr.",
+        "price": "725"
+      }
+    ]
+  }
+]

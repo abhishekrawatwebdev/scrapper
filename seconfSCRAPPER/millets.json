@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Amaranth Flour (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5933.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/amaranth-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹160"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹320"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amaranth Whole",
+    "img": "https://www.earthytales.in/uploads/products/1x/Amaranth_Whole.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/amaranth-whole",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹157"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹315"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bajra Flour (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5940.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/bajra-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹63"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹125"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Barley Daliya",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5944.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/breakfast-cereals/barley-daliya",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹93"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹185"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Barley flour (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5934.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/barley-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹75"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹150"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Barley Whole",
+    "img": "https://www.earthytales.in/1x//1x/www.earthytales.in/1x/?v=080933443",
+    "productLink": "https://www.earthytales.in/millets/barley-whole-",
+    "details": {
+      "productDescription": "",
+      "variants": []
+    }
+  },
+  {
+    "name": "Buckwheat Whole",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5938.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/millets/buckwheat-whole",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹87"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Buckwheat/Kuttu Flour  (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5937.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/buckwheat-kuttu-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹205"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹410"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jowar Daliya",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5945.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/breakfast-cereals/jowar-daliya",
+    "details": {
+      "productDescription": "Jowar is considered as one of the healthy millets in the world. It has an incredible health benefits of jowar and an integral part of Indian meals.",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹71"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹142"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jowar Flour (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5939.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/jowar-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹76"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹152"
+        }
+      ]
+    }
+  },
+  {
+    "name": "jowar Whole",
+    "img": "https://www.earthytales.in/1x//1x/www.earthytales.in/1x/?v=080933443",
+    "productLink": "https://www.earthytales.in/millets/jowar-whole-",
+    "details": {
+      "productDescription": "",
+      "variants": []
+    }
+  },
+  {
+    "name": "Kodo Millet Rice",
+    "img": "https://www.earthytales.in/uploads/products/1x/71.jpg.webp?v=080933443",
+    "productLink": "https://www.earthytales.in/millets/kodo-millet",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "400 gm",
+          "mainPrice": "₹95"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Millet Khichdi Mix",
+    "img": "https://www.earthytales.in/uploads/products/1x/Millet_khichdi_mix.png?v=080933443",
+    "productLink": "https://www.earthytales.in/breakfast-cereals/millet-khichdi-mix",
+    "details": {
+      "productDescription": "Ingredients : Foxtail millet, Moong dal, Khichdi masala powder (Coriander, Chana dal, Urad dal, Red chilli, Jeera, Black pepper, Green cardamon, Dalchini, Clove, Khus khus, Fenugreek, Curry leaves, Hing, Dried Coconut, Oil)",
+      "variants": [
+        {
+          "weight": "400 gm",
+          "mainPrice": "₹256"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Oat Flakes",
+    "img": "https://www.earthytales.in/uploads/products/1x/Oat_Flakes.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/millets/oat-flakes-",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹131"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹262"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ragi Flour (Freshly Milled)",
+    "img": "https://www.earthytales.in/uploads/products/1x/DSC_5931.jpg?v=080933443",
+    "productLink": "https://www.earthytales.in/flours/ragi-flour-freshly-milled",
+    "details": {
+      "productDescription": "",
+      "variants": [
+        {
+          "weight": "500 gm",
+          "mainPrice": "₹103"
+        },
+        {
+          "weight": "1 kg",
+          "mainPrice": "₹206"
+        },
+        {
+          "weight": "2 kg",
+          "mainPrice": "₹412"
+        }
+      ]
+    }
+  }
+]

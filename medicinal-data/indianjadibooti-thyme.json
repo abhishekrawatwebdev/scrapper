@@ -1,0 +1,36 @@
+[
+  {
+    "name": "IndianJadiBooti Thyme Leaves (Tea Cut Format) - Thymus Vulgaris",
+    "productLink": "https://indianjadibooti.com/Jadistore/thyme-leaves?search=Thyme&description=true",
+    "variants": [
+      {
+        "weight": "50g",
+        "price": "(Rs200)"
+      },
+      {
+        "weight": "100g",
+        "price": "(Rs280)"
+      },
+      {
+        "weight": "250g",
+        "price": "(Rs450)"
+      },
+      {
+        "weight": "400g",
+        "price": "(Rs670)"
+      },
+      {
+        "weight": "900g",
+        "price": "(Rs1,110)"
+      },
+      {
+        "weight": "3 x 900g",
+        "price": "(Rs2,760)"
+      },
+      {
+        "weight": "Sample 10g",
+        "price": "(Rs80)"
+      }
+    ]
+  }
+]

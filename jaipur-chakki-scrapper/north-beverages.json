@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Purple Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Purple-Tea/Heritage-Purple-Tea-Front-250x250.jpg",
+    "description": "This speciality blend of tisane or herbal tea has blue pea flowers with a hint of lemon and red rose petals and comes packed with loads of antioxidants which are just great for your body. Since this blend contains no tea leaves, you can enjoy a cup of caffeine-free purple brew and soak in all the goodness it provides. A blend such as this is known to help prevent cancer, control diabetes, enhance eye and brain health, promote weight loss among others.",
+    "price": "Rs 250.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Spicy Black Pepper Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Spicy-Black-Pepper-Chai/Spicy-Black-Pepper-Cha-Front-250x250.jpg",
+    "description": "A nice hot cup of strong Assam CTC tea or chai blended with spicy black pepper powder will get you rejuvenated at any time of the day! Black pepper pairs really well with milk tea and helps soothe coughs and colds and fights infections as well as diabetes and helps in digestion and improves dental health.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Adrak Chai (Ginger Tea)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/AHT_adrak-TEa/Adrak-Tea-5-250x250.jpg",
+    "description": "For those who love a cup of adrak chai, this loose leaf Assam tea fortified with ginger will see you happy. Get your regular kadak chai with the spicy warm flavour of ginger and get a kick start to your mornings or a much need boost in the evenings. Feeling a little sore in the throat? Simply let the adrak chai work its magic. The benefits of loose leaf orthodox red tea, when blended with ginger, are many - it helps in relaxation and destressing, is a great source of antioxidants and helps soothe coughs and colds.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Blue Moon Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Blue_Moon/Blue_Moon_1-250x250.jpg",
+    "description": "",
+    "price": "Rs 365.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Chamomile Charisma Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Chamomile_Charisma/Chamomile_Charisma_1-250x250.jpg",
+    "description": "Chamomile Tea has been used as a natural remedy to reduce inflammation and anxiety and to treat insomnia. Chamomile is commonly regarded as a mild sleep inducer as unlike many other teas, it lacks caffeine content. So instead of giving you a rush, it relaxes the nerves and muscles. Green Tea when combined with chamomile flowers aids in sleep and is therefore usually drunk after dinner before sleep. This brew also helps in controlling diabetes, reducing inflammation as well as menstrual pain.",
+    "price": "Rs 365.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Chamomile Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Chamomile_Green_Zipper/Chamomile_Green_1-250x250.jpg",
+    "description": "",
+    "price": "Rs 220.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Earl Grey Aura Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Earl-Grey-Aura/Earl-Grey-Aura-Tea-1-250x250.jpg",
+    "description": "Classic Assam orthodox black loose leaf tea is laced with bergamot oil to make this blend just the way Lord Grey, after which this blend is named, loved his tea! Earl Grey Tea typically is a tea made from loose black tea leaves infused with the essence of\nBergamot (Citrus bergamia) which gives a brusque citrusy twist to the tea.\nSince it received its nickname from the then British Prime Minister Earl Grey, bergamot tea\nis often considered very English. However, it is consumed all across the globe today.\nHealth Benefits:",
+    "price": "Rs 345.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Ginger Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Ginger-Green-Tea/Ginger-Green-Tea-02-250x250.jpg",
+    "description": "For those who love a cup of green tea, simply adding ginger to the natural goodness that green tea has, gives you a drink fortified with added nutrients. This blend is a balance of loose-leaf Assam green tea and ginger sourced from the neighbouring hill states which produce ginger with more zing. With this ginger green tea, you are guaranteed to get a kick start to your mornings or a much need boost in the evenings. Feeling a little sore in the throat? Simply let the ginger work its magic and soothe you. The benefits of loose leaf green tea, when blended with ginger, are many - it helps in relaxation and destressing, is a great source of antioxidants and helps soothe coughs and colds.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/AHT-Weight-Loss/Green-Tea-3-250x250.jpg",
+    "description": "Grown right in the middle of Upper Assam’s renowned tea region, this particular Green Tea, manufactured by Heritage Tea Company, is a naturally sweet Green Tea. It has a light lemon yellow when brewed just right. It is smooth and buttery on the palate with fresh zesty undertones. Rich in antioxidants & aiding in weight loss, this Green Tea is the very embodiment of health and well being.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Green Tea, Morning Glory",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Green%20Tea/Green-Tea-Morning-Glory-Assam-4-250x250.jpg",
+    "description": "Green Tea, Morning Glory: As the name suggests, this green tea is one to get you up and about every morning! Grown right in the middle of Upper Assam’s renowned tea region, this Green Tea is manufactured by Heritage Tea Company. The packet contains export quality, whole green leaves which are lightly processed to keep all the nutrients and flavour intact! When brewed just right, it has a naturally sweet taste with a light lemon yellow colour and has fresh and fruity undertones. Rich in antioxidants, aiding in weight loss, and this Green Tea is the very embodiment of health and overall well-being.",
+    "price": "Rs 299.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Herbal Hibiscus Red Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/AHT-Hibiscus/Hibiscus-Tea-4-250x250.jpg",
+    "description": "",
+    "price": "Rs 399.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Hibiscus Roselle Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Hibidcus-Roselle/Hibidcus-Roselle-Tea-1-250x250.jpg",
+    "description": "An infusion of Roselle (Hibiscus Sabdariffa) calyces and Green Tea is excellent to get rid of any digestive woes. Hibiscus green tea can be drunk both hot and as a summer iced tea and is great to incorporate into your lifestyle all year round.",
+    "price": "Rs 345.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Jasmine Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Jasmine-Green-Tea/Jasmine-Green-Tea-1-250x250.jpg",
+    "description": "",
+    "price": "Rs 345.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Kadak Masala Chai",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Kadak_Masala_Chai/Kadak_Masala_Chai_1-250x250.jpg",
+    "description": "A blend of premium Assam Tea with dry spices that includes ginger, cardamom, bay leaf, and clove, making a cup of strong Assam masala chai tea. If you’re a chai lover and especially fond of milk tea, your day is incomplete without this kadak masala chai blend!",
+    "price": "Rs 265.00",
+    "weight": "70.00gm"
+  },
+  {
+    "name": "Kashmiri Kahwa Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Khasmiri-Kahwa/Kashmiri-Kahwa-Green-Tea-Front-250x250.jpg",
+    "description": "This brew is a reinterpretation of the traditional Kashmiri style of kahwa tea. Here we have quality Assam green tea blended with almonds, cloves, cardamom and bay leaves. This brew is full of flavour as well as health benefits. It improves heart health, reduces cholesterol levels and regulates blood pressure.",
+    "price": "Rs 399.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Lal Chai, Loose Leaf Orthodox Red Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lal%20Chai/Lal-Chai-Assam-Red-Tea-2-250x250.jpg",
+    "description": "From the makers of renowned export quality orthodox tea varieties, this red tea from Heritage Tea Company, is a treat for those who love their teas red and full of flavour. Orthodox teas are known as the champaign of teas since they have more nuanced and complex flavours than other teas. This tea makes a darker coloured amber tea and is best drunk without adding milk to it to experience the sweet flavour of the liquor better. Discover this whole leaf orthodox red tea, which is not overly processed so it retains its layers of flavour.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Lemon Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lemon-Green-Tea/Lemon-Green-Tea-04-250x250.jpg",
+    "description": "For those who love a cup of green tea, simply adding lemon - the big, jiucy kaji nemu lemons native to Assam, transforms the natural goodness that green tea has, into an excellent drink to help you detox.  The benefits of loose leaf green tea, when blended with lemon, are many - it helps in relaxation and destressing, is a great source of antioxidants and helps soothe, arthritis pains as well as coughs and colds.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Lemongrass Ginger Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Lemongrass_Ginger/Lemongrass_Ginger_Tea_1-250x250.jpg",
+    "description": "An invigorating blend of green tea with lemongrass and ginger can create absolute magic in your taste buds. Drizzle in a drop of honey to solve that tickle in your throat or add a slice of lemon for some extra refreshing zestiness!",
+    "price": "Rs 345.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Marigold Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Marigold-Green-Tea/Marigold-Green-Tea-Front-250x250.jpg",
+    "description": "Marigold or calendula when added to good quality Assam green tea becomes a gold mine for health benefits. It helps to alleviate cramps and aids digestion. It also brings relief for nausea, stomach ulcers and menstrual discomfort.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Masala Chai",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Masala-Chai/Masala-Chai-Front-250x250.jpg",
+    "description": "Masala Chai can never fail to refresh and perk you up when had at any time of the day. This premixed blend of quality Assam black CTC tea with spices like cinnamon, cardamom, cloves and pepper is a quick and easy way to prepare delicious masala chai.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Moringa Green Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/Moringa-Tea/Moringa-Tea-Front-250x250.jpg",
+    "description": "Moringa or drumstick tree is a superfood which is very nutritious and packs a whole host of health benefits. The best way to add it regularly to your diet is to drink it as a tea. When moringa is added to good quality Assam green tea you get double the benefits! It is packed with vitamins and minerals, is a source of plant-based protein, it helps balance hormones and protect the liver among other benefits such as aiding in weight loss.",
+    "price": "Rs 399.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Oolong Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Oolong-Tea/Oolong-Tea-1-250x250.jpg",
+    "description": "Oolong teas are a rare antioxidant-rich tea made from partially oxidized tea leaves. Oolong tea ia known to aid in digestion, building immunity and controlling blood pressure.",
+    "price": "Rs 499.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Orange Orthodox Red Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/AHT-Orange/Orange-Tea-4-250x250.jpg",
+    "description": "",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Peony White Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Peony-White-Tea/Peony-White-Tea-1-250x250.jpg",
+    "description": "An exotic rare Bai Mudan white tea leaves plucked with extreme care with a taste that pleases the senses, easing you into relaxation, with massive health benefits for your body’s well-being! Peony White Tea is loaded with antioxidants and supports detoxification, helps boost immunity, and is good for skin health.",
+    "price": "Rs 599.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Pineapple Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Assam-Heritage-Tea/PineApple-Tea/Pineapple-Tea-Front-250x250.jpg",
+    "description": "Delicious pineapple chunks when added to good quality Assam white tea becomes a gold mine for health benefits. Have a cup of pineapple tea helps to boost your mood and immune system, helps in digestion and weight loss and is a good source of antioxidants.",
+    "price": "Rs 250.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Rose Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Rose_Tea_Zipper/Rose_Tea_1-250x250.jpg",
+    "description": "",
+    "price": "Rs 220.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Silver Needle White Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/White-Tea-Silver-Needle/White-Tea-Silver-Needle-1-250x250.jpg",
+    "description": "Silver Needle White tea is one of the least processed, high quality grades of teas. This tea has a sweet, mellow and refreshing brew and is perfect for drinking on hot, long afternoons. Hand-plucked white tea is great for maintaining healthy skin and body. White teas have higher antioxidant levels than other teas that grant you numerous benefits such as anti ageing properties, decreasing glucose levels for diabetics boosting immunity.",
+    "price": "Rs 799.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Spice Rose Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Lluvia_Tea/Spice_Rose/Spice_Rose_1-250x250.jpg",
+    "description": "Spice Rose is a sweet and intensely floral blend with a hint of rose, a dash of cardamom, and the freshness of Assam loose leaf orthodox black tea which can be drunk at any time of day for a boost. Rose gives an intensely floral essence, cardamom gives that extra taste, and Assam Orthodox gives a rich aroma.",
+    "price": "Rs 385.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Yellow Tea, AHT",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/AHT-Yellow-Tea/Yellow-Tea-2-250x250.jpg",
+    "description": "This organic certified speciality yellow tea is handcrafted by Assam Heritage Tea Co. under Tea Master, Rajen Baruah, who is an Advisory Board Member from India of International Speciality Tea Association, USA. Yellow tea is one of the rarest types of teas. During ancient times, these teas were enjoyed only by the elites and royals of China. However, this particular packet of loose leaf yellow tea comes from mountain-grown organic tea gardens in Arunachal Pradesh. It has unique wild flowery tones that can activate your heart chakra and has incredible anti-ageing properties.",
+    "price": "Rs 650.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Assam Green Tea, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Green-Tea/Green-Tea-Pack-250x250.jpg",
+    "description": "",
+    "price": "Rs 275.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Assam Orthodox Red Tea, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Orthodox-Black-Tea/Orthodox-Black-Tea-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 325.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Black Wine Tea - Orthodox Tea (TGFOP)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Black-Wine-Tea/Black-Wine-Tea-Box-250x250.jpg",
+    "description": "This celebratory refined tea is a perfect choice for a cold infusion, especially for those who love both tea & wine.\nThis is an elegant tea to be appreciated and savoured without any additives or sweeteners.",
+    "price": "Rs 220.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Green Tea - Orthodox Tea (TGFOP)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Green-Tea/Green-Tea-Box-250x250.jpg",
+    "description": "Kickstart your day with a breath of fresh air with our Finest Green Tea - the guilt-free and healthy drink option made for you to enjoy every day.\n\nIt is made by carefully roasting whole green tea leaves which are then rolled into coils in Japanese style.",
+    "price": "Rs 190.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Luxury Black Tea (SFTGFOP1, Highest Grade)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Luxury-Black-Tea/Luxury%20Black%20Tea%20Pack-250x250.png",
+    "description": "This luxury black tea is made by selecting only the finest topmost leaves of the tea shrub, which are then carefully coiled and sun-dried with their golden tips intact, to give you a high-grade black tea with the richest tea-drinking experience.",
+    "price": "Rs 470.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Premium Assam CTC Tea, NEO",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Premium-CTC-Tea/Premium-CTC-Tea-Pack-250x250.jpg",
+    "description": "",
+    "price": "Rs 275.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Rich Black Tea - Orthodox Tea (TGBOP)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Pahari-Roots/Rich-Black-Tea/Rich-Black-Tea-Box-250x250.jpg",
+    "description": "We are proud to offer you our exquisite Black Tea, grown in the foothills of Meghalaya. This tea has a taste that is reminiscent of Darjeeling and Assam teas combined!",
+    "price": "Rs 190.00",
+    "weight": "50.00gm"
+  },
+  {
+    "name": "Sikkim Temi Orthodox Red Tea",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Orthodox-Temi-Tea/Orthodox-Temi-Tea-Pack-250x250.jpg",
+    "description": "",
+    "price": "Rs 675.00",
+    "weight": "250.00gm"
+  },
+  {
+    "name": "Sikkim Temi Tea First Flush",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/First-Flush-Temi-Tea/First-Flush-Temi-Tea-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 600.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "Smoky Tea from Meghalaya",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/NE-Origins/Smoky-Black-Tea/Smoky-Black-Tea-Bottle-250x250.jpg",
+    "description": "",
+    "price": "Rs 375.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "CountrySpices CTC Tea Leaves (Milk Tea)",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Country-Spices/Black-Tea/Black-Tea-250x250.jpg",
+    "description": "Brought to you from the Meghalaya's rain-soaked Khasi Hills of Meghalaya, this premium highland tea has a deep and rich flavour, with toffee or 'chocolatey' notes and no bitterness. Best drunk black and brewed for 3 to 4 minutes, or you can brew it for longer and add milk for a rich traditional milk chai.",
+    "price": "Rs 220.00",
+    "weight": "200.00gm"
+  },
+  {
+    "name": "CountrySpices Oolong Tea leaves",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Country-Spices/Oolong-Tea/Oolong-Tea-1-250x250.jpg",
+    "price": "Rs 680.00",
+    "weight": "100.00gm"
+  },
+  {
+    "name": "CountrySpices Turmeric Latte Blend",
+    "img": "https://www.thenortheaststore.com/image/cache/catalog/Country-Spices/Turmeric-Latte-Blend/Turmeric-Latte-Blend-1-250x250.jpg",
+    "description": "This complete easy turmeric latte formulation contains everything you need to bring all the benefits of turmeric into your diet following the traditional haldi doodh formula with a more scientific approach. Providing all your anti-inflammation and anti-oxidants, this delicious blend has been scientifically formulated with the correct amount of black pepper to increase the body's ability to absorb turmeric. Excellent vegan drink that makes the perfect golden latte. The blend contains 80% Lakadong Turmeric Powder, 20% Black Pepper Powder. 100grams of this latte blend yields 40 serves.",
+    "price": "Rs 200.00",
+    "weight": "100.00gm"
+  }
+]
